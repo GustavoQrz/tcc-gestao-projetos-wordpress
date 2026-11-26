@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+wp-config.php
+wp-config-local.php
+*.log
+*.sql
+*.sql.gz
+*.sqlite
+*.sqlite3
+*.pem
+*.key
+node_modules/
+wp-content/cache/
+.DS_Store
+Thumbs.db
